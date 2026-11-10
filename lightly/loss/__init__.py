@@ -28,3 +28,4 @@ from lightly.loss.vicreg_loss import VICRegLoss
 from lightly.loss.vicregl_loss import VICRegLLoss
 from lightly.loss.visreg_loss import VISRegLoss, VISRegLossComponents
 from lightly.loss.wmse_loss import Whitening2d, WMSELoss
+# label test
