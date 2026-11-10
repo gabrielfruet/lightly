@@ -11,6 +11,8 @@ name: Label PR
 # labels that no longer apply.
 
 on:
+  pull_request:
+    types: [opened, reopened, edited, synchronize]
   pull_request_target:
     types:
       - opened
